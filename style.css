@@ -61,7 +61,6 @@ body {
   padding: 2rem;
 }
 .attribution a {
-  
   color: hsl(228, 45%, 44%);
 }
 
@@ -85,7 +84,7 @@ body {
   margin: 0 auto;
   background-color: var(--clr-white);
   padding: 2.5rem;
-  margin: 6rem auto;
+  margin: 6rem auto 2rem;
   
   border-radius: 1.5rem;
 }
