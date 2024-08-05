@@ -1,21 +1,21 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
 
 @font-face {
-  font-family: Outfit-400;
+  font-family: "Outfit-Regular";
   src: url("/assets/fonts/outfit/static/Outfit-Regular.ttf");
 }
 
 @font-face {
-  font-family: Outfit-600;
+  font-family: "Outfit-SemiBold";
   src: url("/assets/fonts/outfit/static/Outfit-SemiBold.ttf");
 }
 @font-face {
-  font-family: Outfit-700;
+  font-family: "Outfit-Bold";
   src: url("/assets/fonts/outfit/static/Outfit-Bold.ttf");
 }
 
 @font-face {
-  font-family: "Young Serif";
+  font-family: "YoungSerif-Regular";
   src: url("/assets/fonts/young-serif/YoungSerif-Regular.ttf");
 }
 
@@ -30,10 +30,10 @@
   --clr-rose-800: hsl(332, 51%, 32%);
 
   --ff-outfit: Outfit, "sans-serif";
-  --ff-title: "Young Serif", "sans-serif";
-  --ff-400: "Outfit-400", "sans-serif";
-  --ff-600: "Outfit-600", "sans-serif";
-  --ff-700: "Outfit-700", "sans-serif";
+  --ff-title: "YoungSerif-Regular","Young Serif", "sans-serif";
+  --ff-400: "Outfit-Regular","Outfit", "sans-serif";
+  --ff-600: "Outfit-SemiBold","Outfit" , "sans-serif";
+  --ff-700: "OOutfit-Bold","Outfit" , "sans-serif";
 
   --fw-400: 400;
   --fw-600: 600;
