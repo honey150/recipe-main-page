@@ -141,6 +141,8 @@ h1 {
   padding: 0.4rem;
   padding-left: 0.85rem;
   font-size: 0.9rem;
+  color: var(--clr-600);
+  word-spacing: 0.1rem;
 }
 
 .preperation-duration ul li span {
